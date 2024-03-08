@@ -1,7 +1,6 @@
 altair
 numpy
 pandas
-pydeck
 streamlit
 plotly
 openptv-python @ git+https://github.com/openptv/openptv-python
