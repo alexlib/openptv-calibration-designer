@@ -1,10 +1,5 @@
-# OpenPTV based 3D calibration target designer
+# OpenPTV 3D calibration target designer
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+Use this designer to create a good calibration target that would be seen clearly from all cameras through the air-glass-water media (or any other multi-media interfaces). 
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
-
-
-![Scheme](./IMG_2949.jpg)
+![Scheme](./images/IMG_2494.jpg)
