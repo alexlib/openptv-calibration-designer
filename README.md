@@ -1,4 +1,4 @@
-# Welcome to streamlit
+# OpenPTV based 3D calibration target designer
 
 This is the app you get when you run `streamlit hello`, extracted as its own app.
 
